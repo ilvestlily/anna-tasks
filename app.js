@@ -93,7 +93,7 @@ function addTask(event) {
 
     const ul = document.querySelector('ul')
     ul.appendChild(li)
-    //add DOM element - begin
+
 
     //add task to localStorage
     let tasks //array for user inputs
